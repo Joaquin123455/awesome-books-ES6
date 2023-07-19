@@ -55,4 +55,5 @@ class BookList {
   }
 }
 
+// eslint-disable-next-line no-unused-vars
 const bookList = new BookList();
